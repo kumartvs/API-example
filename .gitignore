@@ -1,2 +1,22 @@
+# Environment variables
 .env
-/myenv/
+
+# Virtual environments
+myenv/
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
